@@ -1,0 +1,21 @@
+{
+  "name": "task137",
+  "version": "1.0.0",
+  "description": "Task 13.7 from Kodilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "files",
+    "node",
+    "kodilla"
+  ],
+  "author": "Vegan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "stat-mode": "^0.2.2"
+  }
+}
